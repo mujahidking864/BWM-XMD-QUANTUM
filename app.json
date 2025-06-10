@@ -50,7 +50,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "MUJAHID",
       "required": false
     },
     "BOT_IMAGE": {
@@ -74,13 +74,13 @@
       "required": true 
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number eg, 2547xxxxxxx",
+      "description": "Enter your number eg, 923019322737",
       "value": "",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,🚀,🌎,✅❤️",
       "required": false 
     },
     "AUTO_REACT": {
@@ -95,11 +95,11 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "MUJAHID",
       "required": false
     },
     "SESSION_ID": {
-      "description": "Your session ID",
+      "description": "BWM-XMD;;;H4sIAAAAAAAAA5VU25KiSBD9lY161Vi5yEUjOmLkoqKoIN5wZx9KKKCUm0UB4oT/voHdPT0RMzvb+1YkVZnnnDyZ30Ca4QLNUQOG30BOcAUpao+0yREYAqUMAkRAF/iQQjAE89EBirjf2ZvJtIxG58xZRkcuJ3Ip+Km4O0iZ4uyuu11PL17Aowvy8hRj7zcJLQWFh+25E1zPfTYxSlxc0WEk0qXK31eTxfiq3YSyU59q3n0BjzYjxASnoZ5HKEEExnPUWBCTz8FHGpzM95vwat8LE+r7wLf7GqNZ0TzqXPxpNRCD3ul03nWm/c/BNxguFtQxkQfK3VzNBFxE8kjKmrmTBcVxtyjVfG/2tVvHKV7hFzhMkW/4KKWYNp/WXba4iKSWv0vRzbQmlHZul021VkXs6vPNgG36mnIioXKcLD4HXNxNLhnXzP3t+N5MZtFtORvEqVM77D5A6iZNpMqpFXt9SowfgVvk3SuX/6M7nFU7CE9Te3mQHI83z2MmXk6ncc6GB+NwGJtBGYwVppjx9efgZ/a+CnK+kYRN73I7deC5gWzkRvHVU6nLT+FNbu5yZXgH+wM+pCX5Hcpbmrh3E+Yzppf61+VqbTqji2msTlDz1NitBgM1HotFvC/LPVHiw3TvnsTeqrJc/lwFspboZnO2nfnVPNv5WlZmm3oVjl6ejC6oMXwwZB9dQFCIC0ogxVn6jIlcF0C/cpBHEH3KC+ps2/HdiOupzpLdeuy2Pk/Lg3nU862yve3VukHKXMuMsry8gC7ISeahokD+FBc0I80CFQUMUQGGfz071ZImKMkommEfDMGA4xl2wHOcxEtfij/rCNIC5vmfKaKgCwKSJQsEhpSUqAueDxhV5Ue8LnH6eCxJjKAr2rivy31ZEiWWE5SWYvJadIMTVFCY5GDISv2B0JcEjnn83QUputFX/7SsebYLAkwKuk3LPM6g/26u95/Q87IypU6Temp7QAQMmY8wohSnYdEyK1NIvAhXSG15gGEA4wJ9FxoR5L9zeVseaua3/ecZVzRFQwMt9jbRT9oM2Z/VSWF7GcRfv/biP3pfv/ZAF8TPlxwrCpIsMjLL8AIrD9kvbfzxHXNbwkcU4rgAQ6BaPSdcMGPdOt1T2ZhMRno4UsMR+OD47tlXT+QMxJowCxkiir3jeMJwut3xrIGv7vqGy217vt67zk6TcMK8/CIJGIJCwJ1M0vOJvxHvRmAc7cHN2mkrW9DdiTVy/Qr5wng2Q2fbXurmke2cbGhSyVvqOitFUVK7zrmW5s11RzSO19iUuSj2S1vNRxX20I/FsHy5up2cP+0GFpMnRf+aaz5mJLPmLz5qxBVRhP3ieDguB1FI7Bq724CGwvaq8BV7CUye3d9d7266xh4OMriI5vU6epum5zTHb1sUv/kcPz8DjJ5L6a1N/9XNV9yt55hH94cUb1vuXzaFAv1JFnYcdznvlBW3XtNlpFup1jvYMVIny9ji15aI97dMoeDRmj+PIQ0ykrRdSE4QdAHJytbBRhpkv6mkKobxlPjRBTEs6OhjKn4xaKz8essiWT6FRdSacidJ1y14/ANntia86gcAAA==",
       "value": "",
       "required": true
     },    
